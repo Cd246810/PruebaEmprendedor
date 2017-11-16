@@ -193,7 +193,7 @@
   </div>
 </nav>
 
-<div id="Ofrecemos" class="container text-center">
+<div id="Ofrecemos">
   <form method="post">
     <br/>
     <br/>
