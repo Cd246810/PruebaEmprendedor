@@ -166,7 +166,8 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#myPage">Hogar</a></li>
-        <li><a href="#band">Vision</a></li>
+        <li><a href="#Ofrecemos">Que ofrecemos</a></li>
+        <li><a href="#Valores">Valores</a></li>
         <li><a href="#tour">Mision</a></li>
         <li><a href="#contact">Equipo</a></li>
         <li class="dropdown">
@@ -219,7 +220,7 @@
 </div>
 
 <!-- Container (The Band Section) -->
-<div id="band" class="container text-center">
+<div id="Valores" class="container text-center">
   <h3>THE BAND</h3>
   <p><em>We love music!</em></p>
   <p>We have created a fictional band website. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
