@@ -194,15 +194,14 @@
 </nav>
 
 <div id="Ofrecemos">
-  <form action="MU.php" method="post">
+  <form method="post">
     <br/>
     <br/>
     <br/>
-    <input type="submit" name="APP" id="APP" value="Prueba nuestro prototipo móvil" class="btn btn-lg btn-block fa-MP"/>
+    <input type="submit" name="APP" id="APP" value="Prueba nuestro prototipo móvil" class="btn btn-lg btn-block fa-MP"/><br/>
     <br/>
     <br/>
-    <input type="submit" name="FB" id="FB" value="Visita nuestra FanPage de Facebook" class="btn btn-lg btn-block fa-facebook"/>
-    <br/>
+    <input type="submit" name="FB" id="FB" value="Visita nuestra FanPage de Facebook" class="btn btn-lg btn-block fa-facebook"/><br/>
     <br/>
   </form>
 </div>
