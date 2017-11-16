@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <!-- Theme Made By www.w3schools.com - No Copyright -->
-  <title>Bootstrap Theme The Band</title>
+  <title>Seats</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -214,7 +214,7 @@
 <div id="Somos" class="container text-center">
   <h3>El Equipo</h3>
   <p><em>Un grupo de estudiantes con espirtu emprendedor</em></p>
-  <p>Con el apoyo del curso de emprendimiento de negocios informaticos hemos realizado el staturp Seats. El cual ayudara a mejorar la calidad de vida de los guatemaltecos al momento de usar el transporte publico.</p>
+  <p>Con el apoyo del curso de emprendimiento de negocios informaticos hemos realizado el staturp Seats. El cual ayudara a mejorar la calidad de vida de los guatemaltecos al momento de usar el transporte colectivo.</p>
   <br>
   <div class="row">
     <div class="col-sm-4">
