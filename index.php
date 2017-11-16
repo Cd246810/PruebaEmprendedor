@@ -194,7 +194,7 @@
 </nav>
 
 <div id="Ofrecemos">
-  <form method="post">
+  <form method="post" action="MU.php">
     <br/>
     <br/>
     <br/>
