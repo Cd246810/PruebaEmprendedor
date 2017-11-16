@@ -213,7 +213,7 @@
 <!-- Container (The Band Section) -->
 <div id="Somos" class="container text-center">
   <h3>El Equipo</h3>
-  <p><em>Un grupo de estudiantes emprendedores</em></p>
+  <p><em>Un grupo de estudiantes con espirtu emprendedor</em></p>
   <p>Con el apoyo del curso de emprendimiento de negocios informaticos hemos realizado el staturp Seats. El cual ayudara a mejorar la calidad de vida de los guatemaltecos al momento de usar el transporte publico.</p>
   <br>
   <div class="row">
