@@ -197,7 +197,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="ny.jpg" alt="New York" width="1200" height="700">
+        <img src="vision.png" alt="New York" width="1200" height="700">
         <div class="carousel-caption">
           <h3>New York</h3>
           <p>The atmosphere in New York is lorem ipsum.</p>
@@ -205,7 +205,7 @@
       </div>
 
       <div class="item">
-        <img src="chicago.jpg" alt="Chicago" width="1200" height="700">
+        <img src="vision.png" alt="Chicago" width="1200" height="700">
         <div class="carousel-caption">
           <h3>Chicago</h3>
           <p>Thank you, Chicago - A night we won't forget.</p>
@@ -213,7 +213,7 @@
       </div>
     
       <div class="item">
-        <img src="la.jpg" alt="Los Angeles" width="1200" height="700">
+        <img src="vision.png" alt="Los Angeles" width="1200" height="700">
         <div class="carousel-caption">
           <h3>LA</h3>
           <p>Even though the traffic was a mess, we had the best time playing at Venice Beach!</p>
@@ -242,7 +242,7 @@
     <div class="col-sm-4">
       <p class="text-center"><strong>Name</strong></p><br>
       <a href="#demo" data-toggle="collapse">
-        <img src="bandmember.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
+        <img src="vision.png" class="img-circle person" alt="Random Name" width="255" height="255">
       </a>
       <div id="demo" class="collapse">
         <p>Guitarist and Lead Vocalist</p>
@@ -253,7 +253,7 @@
     <div class="col-sm-4">
       <p class="text-center"><strong>Name</strong></p><br>
       <a href="#demo2" data-toggle="collapse">
-        <img src="bandmember.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
+        <img src="vision.png" class="img-circle person" alt="Random Name" width="255" height="255">
       </a>
       <div id="demo2" class="collapse">
         <p>Drummer</p>
@@ -264,7 +264,7 @@
     <div class="col-sm-4">
       <p class="text-center"><strong>Name</strong></p><br>
       <a href="#demo3" data-toggle="collapse">
-        <img src="bandmember.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
+        <img src="vision.png" class="img-circle person" alt="Random Name" width="255" height="255">
       </a>
       <div id="demo3" class="collapse">
         <p>Bass player</p>
