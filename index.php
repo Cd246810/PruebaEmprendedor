@@ -213,7 +213,7 @@
   <br>
   <div class="row">
     <div class="col-sm-4">
-      <p class="text-center"><strong>Name</strong></p><br>
+      <p class="text-center"><strong>Christian Escobar</strong></p><br>
       <a href="#demo" data-toggle="collapse">
         <img src="Pases.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
       </a>
@@ -224,7 +224,7 @@
       </div>
     </div>
     <div class="col-sm-4">
-      <p class="text-center"><strong>Name</strong></p><br>
+      <p class="text-center"><strong>Kevin Juarez</strong></p><br>
       <a href="#demo2" data-toggle="collapse">
         <img src="Pases.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
       </a>
@@ -235,7 +235,7 @@
       </div>
     </div>
     <div class="col-sm-4">
-      <p class="text-center"><strong>Name</strong></p><br>
+      <p class="text-center"><strong>Abner Cojon</strong></p><br>
       <a href="#demo3" data-toggle="collapse">
         <img src="Pases.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
       </a>
