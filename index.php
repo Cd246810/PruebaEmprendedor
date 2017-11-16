@@ -165,9 +165,9 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#Ofrecemos">Que ofrecemos</a></li>
+        <li><a href="#Ofrecemos">Qué ofrecemos</a></li>
         <li><a href="#Valores">Valores</a></li>
-        <li><a href="#Somos">Quienes Somos</a></li>
+        <li><a href="#Somos">Quiénes Somos</a></li>
       </ul>
     </div>
   </div>
@@ -186,15 +186,11 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="Pases.jpg" alt="New York" width="1200" height="700">
+        <img src="Pases.jpg" alt="CVision" width="1200" height="700">
       </div>
 
       <div class="item">
-        <img src="Pases.jpg" alt="Chicago" width="1200" height="700">
-      </div>
-    
-      <div class="item">
-        <img src="Pases.jpg" alt="Los Angeles" width="1200" height="700">
+        <img src="Proposicion.jpg" alt="CProposicion" width="1200" height="700">
       </div>
     </div>
 
