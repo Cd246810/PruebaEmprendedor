@@ -152,7 +152,8 @@
   </style>
 </head>
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50">
-  <nav class="navbar navbar-default navbar-fixed-top">
+
+<nav class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -172,14 +173,6 @@
     </div>
   </div>
 </nav>
-</div>
-
-  <div id="Ofrecemos" class="container text-center">
-
-  </div>
-<div id="Valores" class="container text-center">
-
-
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
