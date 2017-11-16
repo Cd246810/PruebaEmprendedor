@@ -173,19 +173,17 @@
     </div>
   </div>
 </nav>
-<div id="Ofrecemos" class="container text-center">
-  <form method="post">
 
-<a class="btn btn-block btn-social btn-twitter">
-    <input type="submit" name="APP" id="APP" value="Prueba nuestro prototipo móvil" class="btn btn-lg btn-block fa-MP"/><br/>
-<br/>
-<br/>
-<input type="submit" name="FB" id="FB" value="Visita nuestra FanPage de Facebook" class="btn btn-lg btn-block fa-facebook"/><br/>
-<br/>
-</form>
-  </div>
 <div id="Ofrecemos">
-  </div>
+  <form method="post">
+    <a class="btn btn-block btn-social btn-twitter">
+    <input type="submit" name="APP" id="APP" value="Prueba nuestro prototipo móvil" class="btn btn-lg btn-block fa-MP"/><br/>
+    <br/>
+    <br/>
+    <input type="submit" name="FB" id="FB" value="Visita nuestra FanPage de Facebook" class="btn btn-lg btn-block fa-facebook"/><br/>
+    <br/>
+  </form>
+</div>
 <div id="Valores">
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
