@@ -174,9 +174,10 @@
   </div>
 </nav>
 
-<div id="Ofrecemos">
+<div id="Ofrecemos" class="container text-center">
   <form method="post">
-    <a class="btn btn-block btn-social btn-twitter">
+    <br/>
+    <br/>
     <input type="submit" name="APP" id="APP" value="Prueba nuestro prototipo móvil" class="btn btn-lg btn-block fa-MP"/><br/>
     <br/>
     <br/>
