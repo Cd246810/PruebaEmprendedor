@@ -165,7 +165,6 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#myPage">Hogar</a></li>
         <li><a href="#Ofrecemos">Que ofrecemos</a></li>
         <li><a href="#Valores">Valores</a></li>
         <li><a href="#tour">Mision</a></li>
