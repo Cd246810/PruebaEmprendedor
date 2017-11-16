@@ -248,46 +248,6 @@
   </div>
 </div>
 
-<!-- Container (TOUR Section) -->
-<div id="tour" class="bg-1">
-  <div class="container">
-    <h3 class="text-center">TOUR DATES</h3>
-    <p class="text-center">Lorem ipsum we'll play you some music.<br> Remember to book your tickets!</p>
-    <ul class="list-group">
-      <li class="list-group-item">September <span class="label label-danger">Sold Out!</span></li>
-      <li class="list-group-item">October <span class="label label-danger">Sold Out!</span></li> 
-      <li class="list-group-item">November <span class="badge">3</span></li> 
-    </ul>
-    
-    <div class="row text-center">
-      <div class="col-sm-4">
-        <div class="thumbnail">
-          <img src="Vision.png" alt="Paris" width="400" height="300">
-          <p><strong>Paris</strong></p>
-          <p>Friday 27 November 2015</p>
-          <button class="btn" data-toggle="modal" data-target="#myModal">Buy Tickets</button>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="thumbnail">
-          <img src="Vision.png" alt="New York" width="400" height="300">
-          <p><strong>New York</strong></p>
-          <p>Saturday 28 November 2015</p>
-          <button class="btn" data-toggle="modal" data-target="#myModal">Buy Tickets</button>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="thumbnail">
-          <img src="Vision.png" alt="San Francisco" width="400" height="300">
-          <p><strong>San Francisco</strong></p>
-          <p>Sunday 29 November 2015</p>
-          <button class="btn" data-toggle="modal" data-target="#myModal">Buy Tickets</button>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-
 <!-- Footer -->
 <footer class="text-center">
   <a class="up-arrow" href="#myPage" data-toggle="tooltip" title="TO TOP">
