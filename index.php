@@ -30,7 +30,6 @@
       margin-bottom: 25px;
       width: 80%;
       height: 80%;
-      opacity: 0.7;
   }
   .person:hover {
       border-color: #f1f1f1;
